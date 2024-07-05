@@ -1,0 +1,43 @@
+body {
+  background-color: yellow;
+  background-image: url("https://cdn.shopify.com/s/files/1/0027/4582/7440/products/rond_tafelblad_massief_rustiek_eiken_bovenzijde_bovenaanzicht_detail_stoer_werkblad_76fb5e50-d74d-44bc-90f4-480b23ec6b7d_1800x1800.jpg?v=1654262773");
+  background-position: 50% 40px;
+}
+
+h1 {
+  color: red;
+  background-color: yellowgreen;
+}
+
+h2 {
+  color: blue;
+  background-color: yellowgreen;
+}
+
+table, th, td {
+  background-color: red;
+  color: whitesmoke;
+  border: 10px solid #000000;
+}
+
+th {
+  background-color: #a80000;
+}
+
+td {
+  background-color: #ff24ff;
+}
+
+p {
+  font-family: Verdana;
+  color: rgb(252, 235, 235);
+}
+
+p.pp {
+  color: rgb(221, 209, 245);
+}
+
+li {
+  font-family: Verdana;
+  color: rgb(221, 209, 245);
+}
